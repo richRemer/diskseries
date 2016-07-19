@@ -1,0 +1,23 @@
+{
+  "name": "diskseries",
+  "version": "0.0.1",
+  "description": "create disk usage time series",
+  "main": "diskseries.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/diskseries.git"
+  },
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/diskseries/issues"
+  },
+  "homepage": "https://github.com/richRemer/diskseries#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.5.3"
+  }
+}
